@@ -1,4 +1,4 @@
-## Olá, sou Luciana Carvalho👋<br>  Atualmente estou estudando programação, com foco em back-end .<br><br>
+## Olá, sou Luciana Carvalho👋<br> #Atualmente estou estudando programação, com foco em back-end .<br><br>
 
 
 ## 🌐 Socials:
